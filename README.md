@@ -1,16 +1,12 @@
-# epiccalculator
+# Epic Calculator
 
-A new Flutter application.
+This project was created in the video [How I made an EPIC CALCULATOR](https://youtu.be/5dxCDSKqwyc) (https://youtu.be/5dxCDSKqwyc). 
 
-## Getting Started
+The file I was mainly editing in the video is the file in the /lib/main.dart file.
 
-This project is a starting point for a Flutter application.
+If you wish to run this project, you will need to install the math_expressions for dart. You can do this by running ``pub upgrade``. Github wouldn't allow me to upload my build folder so if you wanted to build this, it may take longer.
 
-A few resources to get you started if this is your first Flutter project:
+You can publish this app for free but please don't publish this app and charge money for it. I developed this project open source for educational purposes and I intent to let people use it, modify it and publish it (for free). 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Thanks,
+IO;
